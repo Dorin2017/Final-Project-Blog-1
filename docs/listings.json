@@ -2,9 +2,9 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/progress-01.html",
       "/posts/post-with-code/index.html",
       "/posts/Untitled.html",
+      "/posts/progress-01.html",
       "/posts/demo-post.html",
       "/posts/welcome/index.html"
     ]
@@ -12,9 +12,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/progress-01.html",
       "/posts/post-with-code/index.html",
       "/posts/Untitled.html",
+      "/posts/progress-01.html",
       "/posts/demo-post.html",
       "/posts/welcome/index.html"
     ]

@@ -67,6 +67,34 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <pubDate>Tue, 24 Feb 2026 08:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Progress Update 1</title>
+  <link>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/progress-01.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="what-i-have-accomplished" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-have-accomplished">What I have accomplished:</h2>
+<ul>
+<li><p>Created a Quarto website project with a blog listing page and site pages (Home, About, Blog, Visualizations).</p></li>
+<li><p>Rendered the site to the <code>docs/</code> folder for GitHub Pages deployment.</p></li>
+<li><p>Set up a GitHub repository for the final project and pushed the full site structure to <code>main</code>.</p></li>
+<li><p>Resolved GitHub large file rejection by removing the large dataset from version control and adding a <code>.gitignore</code> to prevent future large data commits.</p></li>
+<li><p>Created a reproducible project structure with <code>data/</code>, <code>data_clean/</code>, and <code>scripts/</code> folders.</p></li>
+<li><p>Added an initial Visualizations page and prepared it for publishing the first chart.</p></li>
+<li><p>Next steps: clean a small dataset using a script, publish the first visualization with brief interpretation, and share the GitHub repo with a colleague for peer review.</p></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/progress-01.html</guid>
+  <pubDate>Tue, 24 Feb 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Demo Post</title>
   <link>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/demo-post.html</link>
   <description><![CDATA[ 
@@ -107,22 +135,6 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <category>news</category>
   <guid>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/welcome/</guid>
   <pubDate>Sat, 21 Feb 2026 08:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Progress Update 1</title>
-  <link>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/progress-01.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-
- ]]></description>
-  <guid>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/progress-01.html</guid>
-  <pubDate>Wed, 25 Feb 2026 06:31:25 GMT</pubDate>
 </item>
 </channel>
 </rss>

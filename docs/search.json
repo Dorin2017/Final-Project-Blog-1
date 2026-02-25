@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "blog",
     "section": "",
-    "text": "Progress Update 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 24, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nDemo Post\n\n\n\ndemo\n\nlab\n\n\n\n\n\n\n\n\n\nFeb 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDemo Post\n\n\n\ndemo\n\nlab\n\n\n\n\n\n\n\n\n\nFeb 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 21, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 24, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nDemo Post\n\n\n\ndemo\n\nlab\n\n\n\n\n\n\n\n\n\nFeb 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nProgress Update 1\n\n\n\n\n\n\n\n\nFeb 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDemo Post\n\n\n\ndemo\n\nlab\n\n\n\n\n\n\n\n\n\nFeb 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 21, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/demo-post.html",
@@ -40,5 +40,19 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "posts/progress-01.html",
+    "href": "posts/progress-01.html",
+    "title": "Progress Update 1",
+    "section": "",
+    "text": "Created a Quarto website project with a blog listing page and site pages (Home, About, Blog, Visualizations).\nRendered the site to the docs/ folder for GitHub Pages deployment.\nSet up a GitHub repository for the final project and pushed the full site structure to main.\nResolved GitHub large file rejection by removing the large dataset from version control and adding a .gitignore to prevent future large data commits.\nCreated a reproducible project structure with data/, data_clean/, and scripts/ folders.\nAdded an initial Visualizations page and prepared it for publishing the first chart.\nNext steps: clean a small dataset using a script, publish the first visualization with brief interpretation, and share the GitHub repo with a colleague for peer review."
+  },
+  {
+    "objectID": "posts/progress-01.html#what-i-have-accomplished",
+    "href": "posts/progress-01.html#what-i-have-accomplished",
+    "title": "Progress Update 1",
+    "section": "",
+    "text": "Created a Quarto website project with a blog listing page and site pages (Home, About, Blog, Visualizations).\nRendered the site to the docs/ folder for GitHub Pages deployment.\nSet up a GitHub repository for the final project and pushed the full site structure to main.\nResolved GitHub large file rejection by removing the large dataset from version control and adding a .gitignore to prevent future large data commits.\nCreated a reproducible project structure with data/, data_clean/, and scripts/ folders.\nAdded an initial Visualizations page and prepared it for publishing the first chart.\nNext steps: clean a small dataset using a script, publish the first visualization with brief interpretation, and share the GitHub repo with a colleague for peer review."
   }
 ]
