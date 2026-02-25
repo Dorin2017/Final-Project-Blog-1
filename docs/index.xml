@@ -47,27 +47,6 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 </item>
 <item>
   <title>Demo Post</title>
-  <link>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/demo post.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="this-is-a-test-post-to-confirm-the-blog-listing-works." class="level1">
-
-
-
-</section>
-
- ]]></description>
-  <category>demo</category>
-  <category>lab</category>
-  <guid>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/demo post.html</guid>
-  <pubDate>Tue, 24 Feb 2026 08:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Demo Post</title>
   <link>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/Untitled.html</link>
   <description><![CDATA[ 
 
@@ -85,6 +64,27 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <category>demo</category>
   <category>lab</category>
   <guid>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/Untitled.html</guid>
+  <pubDate>Tue, 24 Feb 2026 08:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Demo Post</title>
+  <link>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/demo-post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="this-is-a-test-post-to-confirm-the-blog-listing-works." class="level1">
+
+
+
+</section>
+
+ ]]></description>
+  <category>demo</category>
+  <category>lab</category>
+  <guid>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/demo-post.html</guid>
   <pubDate>Tue, 24 Feb 2026 08:00:00 GMT</pubDate>
 </item>
 <item>
@@ -110,7 +110,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 </item>
 <item>
   <title>Progress Update 1</title>
-  <link>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/progress 1.html</link>
+  <link>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/progress-01.html</link>
   <description><![CDATA[ 
 
 
@@ -121,8 +121,8 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
 
  ]]></description>
-  <guid>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/progress 1.html</guid>
-  <pubDate>Wed, 25 Feb 2026 06:05:51 GMT</pubDate>
+  <guid>https://github.com/Dorin2017/Final-Project-Blog-1.git/posts/progress-01.html</guid>
+  <pubDate>Wed, 25 Feb 2026 06:31:25 GMT</pubDate>
 </item>
 </channel>
 </rss>
