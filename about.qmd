@@ -13,7 +13,22 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
-About this blog
+## Project Focus
+
+-   Topic
+
+-   Data
+
+-   Research questions
+
+## Plan
+
+-   Clean Data
+
+-   Create 2-3 visualizations
+
+-   Write short interpretations for each visualizations
+
+-   Publish update as blog posts

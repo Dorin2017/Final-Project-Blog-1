@@ -12,4 +12,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-## Welcome to the Final Project for EDLD 652. I am looking at **political disagreement on Facebook during the Brexit referendum.** 
+## Welcome to the Final Project for EDLD 652. I am looking at **political disagreement on Facebook during the Brexit referendum.**
