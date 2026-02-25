@@ -7,6 +7,8 @@ date: 02-24-2026
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
+library(ggplot2)
+library(ineq)
 
 brexit_data <- read_csv("data/Brexit 5000 Sample Anonymized.csv")
 colnames(brexit_data)
@@ -16,9 +18,8 @@ colnames(brexit_data)
 ## Visualization 1: Tone Distribution
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-summary(brexit_data$Commenter_BA_Score)
 
-library(ggplot2)
+summary(brexit_data$Commenter_BA_Score)
 
 ggplot(brexit_data, aes(x = Commenter_BA_Score, fill = Cross_Cutting_w_Counters)) +
   geom_density(alpha = 0.4) +
@@ -36,9 +37,6 @@ Aggression is not limited to cross-cutting exchanges. Like-minded comments appea
 ## Visualization 2: Participant Concentration
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-
-library(ineq)
-
 counts <- brexit_data %>% count(Commenter_ID)
 ineq(counts$n, type = "Gini")
 
