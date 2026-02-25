@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/progress 1.html",
+      "/posts/post-with-code/index.html",
+      "/posts/demo post.html",
+      "/posts/Untitled.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/progress 1.html",
+      "/posts/post-with-code/index.html",
+      "/posts/demo post.html",
+      "/posts/Untitled.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]

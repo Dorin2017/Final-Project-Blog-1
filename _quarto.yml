@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs 
+
+website:
+  description: "Parvez_Final Project Blog"
+  site-url: https://github.com/Dorin2017/Final-Project-Blog-1.git 
+  title: "PS-3"
+  navbar:
+    left: 
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: Blog
+      - href: viz.qmd
+        text: Visualizations
+      
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+ 
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
