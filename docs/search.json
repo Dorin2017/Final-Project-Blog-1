@@ -35,13 +35,6 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
     "objectID": "posts/progress-01.html",
     "href": "posts/progress-01.html",
     "title": "Progress Update 1",
@@ -54,5 +47,12 @@
     "title": "Progress Update 1",
     "section": "",
     "text": "Created a Quarto website project with a blog listing page and site pages (Home, About, Blog, Visualizations).\nRendered the site to the docs/ folder for GitHub Pages deployment.\nSet up a GitHub repository for the final project and pushed the full site structure to main.\nResolved GitHub large file rejection by removing the large dataset from version control and adding a .gitignore to prevent future large data commits.\nCreated a reproducible project structure with data/, data_clean/, and scripts/ folders.\nAdded an initial Visualizations page and prepared it for publishing the first chart.\nNext steps: clean a small dataset using a script, publish the first visualization with brief interpretation, and share the GitHub repo with a colleague for peer review."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   }
 ]
